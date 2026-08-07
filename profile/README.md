@@ -16,8 +16,8 @@ Pontificia Universidad Católica de Chile · Escuela de Ingeniería · Departame
 
 | Profesor | Correo | Semestre |
 | :--- | :--- | :--- |
-| **Ing. Michel Rozas** | [mvrozas@uc.cl](mailto:mvrozas@uc.cl) | 2026-2 |
-| **Dr.-Ing. Félix Rojas** | [felix.rojas@uc.cl](mailto:felix.rojas@uc.cl) | 2026-1 |
+| **Ing. Michel Rozas** | [mvrozas@uc.cl](mailto:mvrozas@uc.cl) | Par |
+| **Dr.-Ing. Félix Rojas** | [felix.rojas@uc.cl](mailto:felix.rojas@uc.cl) | Impar |
 
 ---
 
